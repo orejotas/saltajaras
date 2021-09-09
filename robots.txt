@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://orejotas.github.io/saltajaras/sitemap.xml
