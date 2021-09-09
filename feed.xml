@@ -3,12 +3,35 @@
     <title>saltajaras</title>
     <link href="https://orejotas.github.io/saltajaras/feed.xml" rel="self" />
     <link href="https://orejotas.github.io/saltajaras" />
-    <updated>2021-09-09T17:01:13+02:00</updated>
+    <updated>2021-09-09T17:45:08+02:00</updated>
     <author>
         <name>Felix Espinosa</name>
     </author>
     <id>https://orejotas.github.io/saltajaras</id>
 
+    <entry>
+        <title>Spanish keyboard layout</title>
+        <author>
+            <name>Felix Espinosa</name>
+        </author>
+        <link href="https://orejotas.github.io/saltajaras/spanish-keyboard-layout.html"/>
+        <id>https://orejotas.github.io/saltajaras/spanish-keyboard-layout.html</id>
+
+        <updated>2021-09-09T17:45:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Caption 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center" ><img loading="lazy" src="https://orejotas.github.io/saltajaras/media/posts/2/1280px-KB_Spanish.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-xs.png 300w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-sm.png 480w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-md.png 768w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-lg.png 1024w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-xl.png 1360w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-2xl.png 1600w"  alt="Distribución de teclado española" width="1280" height="427">
+<figcaption >Caption</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Este es mi primer post</title>
         <author>

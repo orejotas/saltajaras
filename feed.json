@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://orejotas.github.io/saltajaras/spanish-keyboard-layout.html",
+            "url": "https://orejotas.github.io/saltajaras/spanish-keyboard-layout.html",
+            "title": "Spanish keyboard layout",
+            "summary": " Caption ",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://orejotas.github.io/saltajaras/media/posts/2/1280px-KB_Spanish.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-xs.png 300w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-sm.png 480w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-md.png 768w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-lg.png 1024w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-xl.png 1360w ,https://orejotas.github.io/saltajaras/media/posts/2/responsive/1280px-KB_Spanish-2xl.png 1600w\"  alt=\"Distribución de teclado española\" width=\"1280\" height=\"427\">\n<figcaption >Caption</figcaption>\n</figure>\n<p> </p>",
+            "author": {
+                "name": "Felix Espinosa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-09T17:45:08+02:00",
+            "date_modified": "2021-09-09T17:45:08+02:00"
+        },
+        {
             "id": "https://orejotas.github.io/saltajaras/este-es-mi-primer-post.html",
             "url": "https://orejotas.github.io/saltajaras/este-es-mi-primer-post.html",
             "title": "Este es mi primer post",
